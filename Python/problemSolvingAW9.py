@@ -10,7 +10,7 @@ import time
 # 1. The files and directories to be backed up are
 # specified in a list.
 # Example on Windows:
-source = ['"C:\\Users\georg\Desktop\WOD Stuff"']
+source = ['"C:\\Users\(Username)\Desktop"']
 # Example on Mac OS X and Linux:
 #source = ['/Users/swa/notes']
 # Notice we have to use double quotes inside a string
@@ -71,7 +71,7 @@ import time
 # 1. The files and directories to be backed up are
 # specified in a list.
 # Example on Windows:
-source = ['"C:\\Users\georg\Desktop\WOD Stuff"', 'C:\\Code']
+source = ['"C:\\Users\(Username)\Desktop"', 'C:\\Code']
 # Example on Mac OS X and Linux:
 #source = ['/Users/swa/notes']
 # Notice we had to use double quotes inside the string
